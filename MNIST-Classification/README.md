@@ -84,7 +84,7 @@ Models were evaluated using:
 | Neural Network (MLP) | ~97.4%   |
 | SVM                  | ~97.8%   |
 
-👉 **Best Performing Models:**  
+**Best Performing Models:**  
 - Support Vector Machine (SVM)  
 - Neural Network (MLP)  
 (Accuracy ≈ 98%)

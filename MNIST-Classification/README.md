@@ -32,10 +32,14 @@ Each image is represented as a flattened vector of pixel intensities.
 - Dataset loaded using OpenML
 - Extracted features (`X`) and labels (`y`)
 
+---
+
 ### 2. Data Preprocessing
 - Checked missing values (none found)
 - Normalized data using MinMaxScaler (0 to 1 range)
 - Split into training, validation, and test sets
+
+---
 
 ### 3. Data Visualization
 - Displayed sample handwritten digits

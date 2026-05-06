@@ -57,7 +57,7 @@ Each image is represented as a flattened vector of pixel intensities.
 | Neural Network (MLP) | ~97.4%   |
 | Support Vector Machine (SVM) | ~97.8% |
 
-Best Performance: **SVM & Neural Network (~98%)** :contentReference[oaicite:0]{index=0}  
+Best Performance: **SVM & Neural Network (~98%)** 
 
 ---
 

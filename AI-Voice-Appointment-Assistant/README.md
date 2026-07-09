@@ -1,45 +1,54 @@
 # AI Voice Appointment Assistant
 
-An AI-powered voice appointment booking assistant built using **n8n**, **ElevenLabs**, **OpenRouter**, and **Webhooks**.
+An AI-powered voice appointment booking assistant built using n8n, ElevenLabs, OpenRouter, and Webhooks.
 
-## Features
+## Overview
 
-- Voice-enabled appointment booking
-- AI-powered conversation using OpenRouter
-- Workflow automation with n8n
-- Webhook integration
-- Automated appointment email generation
+This project automates appointment booking through a voice interface.
+
+The assistant:
+
+- Accepts voice requests
+- Extracts appointment details
+- Sends data through an n8n webhook
+- Uses an LLM via OpenRouter
+- Generates a professional appointment request email
+- Returns the response to the user
 
 ## Technologies
 
-- Python
 - n8n
 - ElevenLabs
 - OpenRouter
 - Webhooks
 - Prompt Engineering
+- AI Agents
 
-## Workflow
+## Features
 
-1. User speaks to the voice assistant.
-2. ElevenLabs captures the request.
-3. The request is sent to n8n through a webhook.
-4. OpenRouter generates a professional appointment email.
-5. The response is returned to the user.
+- Voice-enabled interaction
+- AI-generated appointment emails
+- Workflow automation
+- Webhook integration
+- Prompt engineering
+- End-to-end no-code AI workflow
 
 ## Skills Demonstrated
 
 - AI Workflow Automation
-- Prompt Engineering
+- LLM Integration
 - API Integration
 - Webhook Development
-- No-Code AI
+- Prompt Engineering
 - AI Agent Design
 
-## Author
+## Screenshots
 
-**Rramandeip Singh**
+(Add the screenshots here.)
 
-LinkedIn: https://linkedin.com/in/rramandeip-singh
+## Future Improvements
 
-GitHub: https://github.com/rramandeip-singh
+- Google Calendar integration
+- Email sending through Gmail API
+- Database storage
+- User authentication

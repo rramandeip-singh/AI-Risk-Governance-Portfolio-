@@ -40,7 +40,6 @@ The dataset is highly imbalanced, making fraud detection a challenging binary cl
 
 - Python
 - TensorFlow
-- Keras
 - Pandas
 - NumPy
 - Scikit-learn
